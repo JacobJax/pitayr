@@ -1,2 +1,2 @@
-# pitayr
+# 🐲 pitayr
 Pitayr frontend
