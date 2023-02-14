@@ -3,6 +3,7 @@ nav {
    padding: 1.4rem;
    position: sticky;
    top: 0;
+   border-bottom: #535252 .7px solid;
 }
 nav .logo {
    color: #fff;

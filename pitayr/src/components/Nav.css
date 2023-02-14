@@ -1,0 +1,21 @@
+.nav {
+   background-color: #000;
+   border-bottom: #535252 .7px solid;
+}
+.nav-item {
+   color: #fff;
+   padding: .6em 1.4em;
+   list-style: none;
+   cursor: pointer;
+   font-weight: bolder;
+}
+.nav-item:hover {
+   background-color: #131212;
+}
+.nav ul {
+   display: flex;
+}
+.active {
+   color : #3d5af1;
+   border-bottom: #3d5af1 3px solid;
+}
