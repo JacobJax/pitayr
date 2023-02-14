@@ -12,3 +12,13 @@
   --font-2: 'Karla', sans-serif;
   --font-3: 'Poppins', sans-serif;
 }
+
+.span-md {
+  max-width: 968px;
+  margin: 0 auto;
+}
+
+.span-lg {
+  max-width: 1024px;
+  margin: 0 auto;
+}
