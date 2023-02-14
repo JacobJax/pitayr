@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Karla:wght@300;400;600&family=Poppins:wght@300;400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* outline: red .7px solid; */
+}
+:root {
+  font-family: 'Karla', 'Inter', sans-serif;
+  --font-1: 'Inter', sans-serif;
+  --font-2: 'Karla', sans-serif;
+  --font-3: 'Poppins', sans-serif;
+}
