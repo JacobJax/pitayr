@@ -7,7 +7,7 @@ Pitayr frontend
 
 
 ## 🏗 Contributing
-> The project does not contain design files so you may need to ask the owner of the repo about the design details.
+> The project does not contain design files so you may need to contact the repo owner for design details.
 1. Clone repository. `git clone https://github.com/JacobJax/pitayr.git`
 1. Navigate to source folder. `cd pitayr/pitayr`
 1. Create a branch from available issues or create and assign yourself an issue then create a branch from it.
