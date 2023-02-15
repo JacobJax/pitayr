@@ -5,7 +5,7 @@ import Aside from './Aside'
 function Cards() {
    return (
       <section id="page">
-         <div className="span-lg">
+         <div className="span-lg page-cont">
             <Main />
             <Aside />
          </div>

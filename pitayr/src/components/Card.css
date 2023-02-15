@@ -24,6 +24,8 @@
 }
 .card-img {
    width: 100%;
+   object-fit: cover;
+   object-position: center;
 }
 .detail-header, .detail-text {
    padding: .8rem;
@@ -72,4 +74,11 @@
    font-size: 1.4rem;
    display: flex;
    gap: .6rem;
+}
+
+@media (min-width: 968px) {
+   .card-icon {
+      height: 3.4rem;
+      width: 3.4rem;
+   }
 }

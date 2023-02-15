@@ -1,3 +1,9 @@
 main {
    background-color: #000;
 }
+@media (min-width: 868px) {
+   main {
+      padding: 1rem;
+      width: 68%;
+   }
+}

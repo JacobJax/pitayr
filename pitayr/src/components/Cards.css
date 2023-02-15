@@ -1,3 +1,10 @@
 #page {
    background-color: #000;
 }
+
+
+@media (min-width: 868px) {
+   .page-cont {
+      display: flex;
+   }
+}

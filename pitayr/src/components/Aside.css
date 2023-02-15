@@ -1,0 +1,12 @@
+aside {
+   display: none;
+   padding: 1rem;
+   border-left: #535252 .7px solid;
+   width: 34%;
+}
+
+@media (min-width: 868px) {
+   aside {
+      display: block;
+   }
+}

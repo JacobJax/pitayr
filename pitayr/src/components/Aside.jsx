@@ -1,8 +1,11 @@
 import './Aside.css'
+import Recomendations from './Recomendations'
 
 function Aside() {
    return (
-      <aside></aside>
+      <aside>
+         <Recomendations />
+      </aside>
    )
 }
 
