@@ -5,8 +5,10 @@ import Aside from './Aside'
 function Cards() {
    return (
       <section id="page">
-         <Main />
-         <Aside />
+         <div className="span-lg">
+            <Main />
+            <Aside />
+         </div>
       </section>
    )
 }
