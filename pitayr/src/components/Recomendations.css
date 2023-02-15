@@ -1,0 +1,46 @@
+.recomendations {
+   background-color: #382f2f;
+   width: 100%;
+   border-radius: .2rem;
+}
+.recom-header, .username {
+   color: #fff;
+}
+.recomendations li {
+   padding: 1rem;
+} 
+.recomendation {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.recom-l {
+   display: flex;
+   align-items: flex-start;
+   gap: .6rem;
+}
+.recom-img img {
+   width: 100%;
+   height: 100%;
+
+   object-fit: cover;
+   object-position: center;
+}
+.recom-img {
+   height: 2.4rem;
+   width: 2.4rem;
+}
+.recom-header {
+   border-bottom: #535252 .7px solid;
+}
+.recom-name {
+   font-size: .9rem;
+   font-weight: bolder;
+   height: 2.4rem;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+.handle {
+   color: #979090;
+}

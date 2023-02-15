@@ -4,6 +4,7 @@ nav {
    position: sticky;
    top: 0;
    border-bottom: #535252 .7px solid;
+   z-index: 1;
 }
 nav .logo {
    color: #fff;

@@ -1,0 +1,10 @@
+footer {
+   margin-top: 1.4rem;
+   padding: 1rem 0;
+   border-top: #535252 .7px solid;
+   color: #fff;
+   /* font-family: var(--font-1); */
+   font-size: small;
+   position: sticky;
+   top: 70px;
+}
